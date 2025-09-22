@@ -103,3 +103,11 @@ From the Banking Dashboard, the following insights can be drawn:
 * Top 2 customers contribute significantly higher transaction values compared to average customers.
 
 ---
+
+## 👨‍💻 Author
+**Jadhav Akshay Kumar**  
+🎓 B.Tech – Electronics & Communication Engineering, IIT (ISM) Dhanbad  
+🌐 Connect with me:  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jadhav-akshay-kumar-835b22289/)  
+💻 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Akshayjadhav04)
+
